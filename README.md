@@ -68,6 +68,6 @@ Pivoted to consulting, where efficiency gains translate directly into more case 
 
 4. **Trust, not speed, is the gating factor for enterprise adoption.** Enterprises need explainability, traceability, and rollback paths. High-risk edits require human-in-the-loop review. Adoption happens when customers feel in control — trust infrastructure matters as much as model intelligence.
 
-For the full strategic context — including the consulting workflow prioritization framework, MVP architecture details, and technical bottlenecks — see [Agentic_AI___ISP_Final_Output__1_.pdf](./Agentic_AI___ISP_Final_Output__1_.pdf) in this repo.
+For the full strategic context — including the consulting workflow prioritization framework, MVP architecture details, and technical bottlenecks — see [Agentic AI Adoption in the Enterprise.pdf](./Agentic%20AI%20Adoption%20in%20the%20Enterprise.pdf) in this repo.
 
 ---
